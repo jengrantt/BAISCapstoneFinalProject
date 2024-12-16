@@ -36,6 +36,14 @@ The project followed the Cross-Industry Standard Process for Data Mining (CRISP-
 - Contact Center User Report
 - Employee Compensation Data
 
+## Technologies Used
+- Python
+- R
+- Orange Data Mining Software
+- Tableau
+- Statistical Modeling Techniques
+
+
 ## Analytical Approach
 ### Modeling Techniques
 - Logistic Regression
@@ -43,6 +51,13 @@ The project followed the Cross-Industry Standard Process for Data Mining (CRISP-
   - Test Set AUC: 0.895
 - Sentiment Analysis
 - Random Forest Modeling
+
+## Executing the Project
+- All preprocessing scripts for the data can be found in the Process Folder under data cleaning and preprocessing scripts folder
+- Data preprocessing was executed using R Studio
+- All modeling scripts for the data can be found in the Process Folder under the modeling scripts folder
+- Modeling was executed using Python and Orange Data Mining
+- Overall findings are extensively discussed within the Final Project Report which can be found in the Project Report Folder and in the Final Presentation/Poster found in the Presentation Folder
 
 ### Key Findings
 - Critical factors reducing termination risk:
@@ -70,13 +85,6 @@ The project followed the Cross-Industry Standard Process for Data Mining (CRISP-
 - Standardize exit survey processes
 - Conduct follow-up meetings for each termination
 - Implement quarterly turnover review meetings
-
-## Technologies Used
-- Python
-- R
-- Orange Data Mining Software
-- Tableau
-- Statistical Modeling Techniques
 
 ## Acknowledgments
 Special thanks to Steve Mercer and Mike Wendell for their support and insights throughout the project.
